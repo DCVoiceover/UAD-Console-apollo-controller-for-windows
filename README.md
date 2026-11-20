@@ -1,5 +1,6 @@
 Quick note: I'm a voice actor, not a software engineer. Chances are I won't be reworking this code or updating it.
 Feel free to take this and make it your own. If you repurpose it and make a ton of money, buy me a coffee or something.
+I just wanted to share this and let Windows UA Apollo users see the possibilities.
 
 Congratulations! Reading this, you've shown you're a voice actor who reads
 
@@ -199,7 +200,7 @@ The engine's command format is unofficial and may change. Re-run steps 3 to 5 to
 * Each press runs a short hidden PowerShell command, so there's about a quarter of a second between pressing and the gain moving.
 * The engine port has no password, so any program on your PC can send it commands. That's how UAD's engine works and isn't specific to this project. To confirm it's local only, run `netstat -an | findstr 4710` while Console is open. You want to see `127.0.0.1:4710` or `\[::1]:4710`.
 * Other parts of the preamp (48V, Pad, HiZ, Low Cut, Phase) live on the same path, but this program doesn't touch them. Be careful if you experiment, because switching 48V on with the wrong mic or cable can cause damage.
-* This code was written with AI assistance and has had limited testing. Issues and pull requests are welcome.
+* This code was written with AI assistance and has had limited testing. Chances are I won't be making changes after this release.
 
 ## License
 
