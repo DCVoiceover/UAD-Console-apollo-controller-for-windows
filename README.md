@@ -1,8 +1,11 @@
+Quick note: I'm a voice actor, not a software engineer. Chances are I won't be reworking this code or updating it.
+Feel free to take this and make it your own. If you repurpose it and make a ton of money, buy me a coffee or something.
+
 Congratulations! Reading this, you've shown you're a voice actor who reads
 
 the instructions first. Or you ignored the instructions, screwed up, and reluctantly
 
-clicked on this file. If you're the latter, your father would be proud. 
+clicked came back here. If you're the latter, your father would be proud. 
 
 Feel free to read the message from your father that is appropriate to your order 
 
